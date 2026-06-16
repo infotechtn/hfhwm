@@ -1,1 +1,6 @@
-
+version: STSv1
+mode: enforce
+mx: hfhwm-org.mail.protection.outlook.com
+mx: d364060a.ess.barracudanetworks.com
+mx: d364060b.ess.barracudanetworks.com
+max_age: 86400
